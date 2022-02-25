@@ -1,4 +1,4 @@
-# How to Upload a File to a Server in PHP
+# Cómo subir un archivo al servidor con PHP
 
 [View Tutorial](https://www.taniarascia.com/how-to-upload-files-to-a-server-with-plain-javascript-and-php)
 
